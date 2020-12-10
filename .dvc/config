@@ -1,0 +1,4 @@
+[core]
+    remote = nlp-pt-harem-coleccoes-s3
+['remote "nlp-pt-harem-coleccoes-s3"']
+    url = s3://nlp-pt-harem/coleccoes
